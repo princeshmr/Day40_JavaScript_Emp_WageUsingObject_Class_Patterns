@@ -1,0 +1,1 @@
+# Day40_JavaScript_Emp_WageUsingObject_Class_Patterns
